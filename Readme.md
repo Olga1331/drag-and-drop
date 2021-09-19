@@ -6,3 +6,7 @@ ___
 ## How to install?
 ___
 ##### Вы можете клонировать этот репозиторий на Github.
+
+## Demo
+[drag & drop](https://jsfiddle.net/Olga1331/189nkm7d/2/)
+
